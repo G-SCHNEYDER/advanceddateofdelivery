@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>advanceddateofdelivery</name>
+    <displayName><![CDATA[Date de livraison avanc&eacute;e]]></displayName>
+    <version><![CDATA[3.3.0]]></version>
+    <description><![CDATA[Afficher une date de livraison plus pr&eacute;cise.]]></description>
+    <author><![CDATA[Yateo]]></author>
+    <tab><![CDATA[shipping_logistics]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
